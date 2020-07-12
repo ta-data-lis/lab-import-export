@@ -10,9 +10,11 @@ Without data, we couldn't really be data scientists. This lab will also discuss 
 
 Now you should already be familiar with the workflow of solving and submitting the labs. But in case not, review the guidelines in the previous labs.
 
-In this lab you will be working on [main.ipynb](your-code/main.ipynb). To launch it, first navigate to the directory that contains `main.ipynb` in Terminal, then execute `jupyter notebook`. In the webpage that is automatically opened, click the `main.ipynb` link to launch it.
+In this lab you will be working on [main.ipynb](your-code/main.ipynb). To launch it, first navigate to the directory that contains `main.ipynb` in Terminal,
+ then execute `jupyter notebook`. In the webpage that is automatically opened, click the `main.ipynb` link to launch it.
 
-When you are on `main.ipynb`, read the instructions for each cell and provide your answers. Make sure to test your answers in each cell and save. Jupyter Notebook should automatically save your work progress. But it's a good idea to periodically save your work manually just in case.
+When you are on `main.ipynb`, read the instructions for each cell and provide your answers. Make sure to test your answers in each cell and save. Jupyter
+ Notebook should automatically save your work progress. But it's a good idea to periodically save your work manually just in case.
 
 By the end of this lab, you will have learned how to import and export csv and Excel files.
 
